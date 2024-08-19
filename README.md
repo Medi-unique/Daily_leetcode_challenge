@@ -71,8 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
