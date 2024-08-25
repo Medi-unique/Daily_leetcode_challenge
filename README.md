@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
