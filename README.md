@@ -10,20 +10,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
