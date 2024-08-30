@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
+| [2645-pass-the-pillow](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
+| [2645-pass-the-pillow](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2645-pass-the-pillow) |
 ## Stack
 |  |
 | ------- |
