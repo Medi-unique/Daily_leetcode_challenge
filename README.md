@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
