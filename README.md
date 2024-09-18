@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0890-lemonade-change) |
 ## Hash Table
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0920-uncommon-words-from-two-sentences) |
