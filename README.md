@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
