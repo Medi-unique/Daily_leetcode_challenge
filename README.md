@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
