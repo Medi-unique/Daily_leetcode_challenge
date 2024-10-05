@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
+| [0664-strange-printer](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
