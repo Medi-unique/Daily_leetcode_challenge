@@ -3,4 +3,3 @@ class Solution:
         while '()' in s:
             s= s.replace('()','')
         return len(s)
-        
