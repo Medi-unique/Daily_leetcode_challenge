@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0729-my-calendar-i) |
