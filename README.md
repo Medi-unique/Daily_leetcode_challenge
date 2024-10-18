@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String
@@ -342,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
