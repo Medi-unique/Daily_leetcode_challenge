@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1197-parsing-a-boolean-expression) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
