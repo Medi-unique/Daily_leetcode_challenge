@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
