@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2089-maximum-matrix-sum) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1502-construct-k-palindrome-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
