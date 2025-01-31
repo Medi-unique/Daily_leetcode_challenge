@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2035-count-sub-islands) |
