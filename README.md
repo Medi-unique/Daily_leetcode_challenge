@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1484-linked-list-in-binary-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0731-my-calendar-ii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/1484-linked-list-in-binary-tree) |
