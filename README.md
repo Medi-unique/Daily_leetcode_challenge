@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Medi-unique/Daily_leetcode_challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
